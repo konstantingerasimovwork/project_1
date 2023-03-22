@@ -1,6 +1,6 @@
 from art import logo
 import random
-from replit import clear
+from replit import clear 
 
 
 def deal_card():
